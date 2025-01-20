@@ -119,12 +119,19 @@ a {
   background: #2e2f42;
 }
 
+.first-section-wrapper {
+  padding: 188px 0;
+}
+
 .first-section-title {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+
+  max-width: 496px;
+  margin: 0 auto 48px;
 }
 
 .first-section-button {
@@ -133,8 +140,16 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   cursor: pointer;
+
+  display: block;
+  border: none;
+  border-radius: 4px;
+  min-width: 169px;
+  height: 56px;
+  margin: 0 auto;
+  padding: 16px 32px;
 }
 
 .first-section-button:hover,
