@@ -117,11 +117,12 @@ a {
 
 .first-section {
   background: #2e2f42;
-}
-
-.first-section-wrapper {
   padding: 188px 0;
 }
+
+/* .first-section-wrapper {
+  padding: 188px 0;
+} */
 
 .first-section-title {
   font-size: 56px;
