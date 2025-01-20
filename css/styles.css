@@ -328,9 +328,15 @@ a {
 
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
+}
+
+.footer-logo {
+  margin-bottom: 16px;
 }
 
 .logo {
+  display: inline-block;
 }
 
 .footer-logo .footer-logo-part {
@@ -342,4 +348,5 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
