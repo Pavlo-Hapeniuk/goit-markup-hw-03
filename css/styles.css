@@ -4,6 +4,10 @@ body {
   background-color: #fff;
 }
 
+img {
+  display: block;
+}
+
 /* ------RESET обнулені------ */
 
 h1,
@@ -160,7 +164,7 @@ a {
 
 /* ------SECOND-SECTION------ */
 .second-section {
-  padding: 120px;
+  padding: 120px 0;
 }
 
 .visually-hidden {
