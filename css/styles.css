@@ -249,6 +249,10 @@ a {
   width: calc((100% - 72px) / 4);
 }
 
+.employee-container {
+  padding: 32px 0;
+}
+
 .third-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -257,7 +261,6 @@ a {
   text-align: center;
   color: #2e2f42;
 
-  margin-top: 32px;
   margin-bottom: 8px;
 }
 
@@ -267,8 +270,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-
-  margin-bottom: 32px;
 }
 
 /* ------FOURTH-SECTION------ */
